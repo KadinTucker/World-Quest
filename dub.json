@@ -1,0 +1,11 @@
+{
+	"name": "worldquest",
+	"authors": [
+		"Kadin Tucker",
+		"Blaine Biediger"
+	],
+	"dependencies": {
+		"d2d": "~>1.4.10"
+	},
+	"description": "A role playing game "
+}
